@@ -65,7 +65,7 @@ Mi meta es crear herramientas educativas y desarrollar videojuegos que fomenten 
 
 ## 📫 Contacto
 
-- GitHub: :contentReference[oaicite:1]{index=1}
+- GitHub: [Cristian Fritz](https://github.com/lokrisx3)
 
 ---
 
