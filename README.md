@@ -71,6 +71,6 @@ Mi meta es crear herramientas educativas y desarrollar videojuegos que fomenten 
 
 <div align="center">
 
-### ✨ “Como es arriba, es abajo” ✨
+### ✨ “Como es en Front-end, es en Back-end” ✨
 
 </div>
