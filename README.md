@@ -2,9 +2,9 @@
 
 # Hola, soy Cristian Fritz 👋
 
-**Desarrollador Full Stack | Analista Programador**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=3CB371&center=true&vCenter=true&width=600&lines=Desarrollador+Full+Stack;Analista+Programador;Automatizaci%C3%B3n+Web+y+QA;Desarrollo+de+aplicaciones+web+y+de+escritorio" alt="Typing SVG" />
 
-Desarrollo de software · Automatización Web y QA · Aplicaciones web y de escritorio
+**Desarrollo de software · Automatización Web y QA · Aplicaciones web y de escritorio**
 
 </div>
 
